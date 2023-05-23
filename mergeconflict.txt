@@ -2,3 +2,4 @@ i will attempt to create a merge conflict and resolve it
 line 1
 line 2
 line 3
+this line will create a merge conflict
